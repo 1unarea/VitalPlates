@@ -5,12 +5,12 @@
   "name": "VitalPlates",
   "description": "Client-side Fabric mod for Minecraft 26.3 dynamically coloring nametags based on health percentage.",
   "authors": [
-    "aegeada"
+    "1unarea"
   ],
   "contact": {
-    "homepage": "https://github.com/aegeada/vitalplates",
-    "sources": "https://github.com/aegeada/vitalplates",
-    "issues": "https://github.com/aegeada/vitalplates/issues"
+    "homepage": "https://github.com/1unarea/vitalplates",
+    "sources": "https://github.com/1unarea/vitalplates",
+    "issues": "https://github.com/1unarea/vitalplates/issues"
   },
   "license": "MIT",
   "icon": "assets/vitalplates/icon.png",
