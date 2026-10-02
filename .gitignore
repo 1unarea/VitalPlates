@@ -12,3 +12,4 @@ out/
 .agents/
 logs/
 *.log
+docs/
