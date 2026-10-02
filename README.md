@@ -88,8 +88,8 @@ Settings can be modified either via the ModMenu in-game interface or by editing 
 To compile the mod yourself:
 
 ```bash
-git clone https://github.com/1unarea/vitalplates.git
-cd vitalplates
+git clone https://github.com/1unarea/VitalPlates.git
+cd VitalPlates
 ./gradlew build
 ```
 

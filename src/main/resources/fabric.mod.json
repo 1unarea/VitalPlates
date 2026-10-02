@@ -8,9 +8,9 @@
     "1unarea"
   ],
   "contact": {
-    "homepage": "https://github.com/1unarea/vitalplates",
-    "sources": "https://github.com/1unarea/vitalplates",
-    "issues": "https://github.com/1unarea/vitalplates/issues"
+    "homepage": "https://github.com/1unarea/VitalPlates",
+    "sources": "https://github.com/1unarea/VitalPlates",
+    "issues": "https://github.com/1unarea/VitalPlates/issues"
   },
   "license": "MIT",
   "icon": "assets/vitalplates/icon.png",
