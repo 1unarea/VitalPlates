@@ -1,0 +1,16 @@
+{
+  "vitalplates.config.title": "VitalPlates Settings",
+  "vitalplates.config.mod_status": "Mod Status",
+  "vitalplates.config.transition_mode": "Transition Mode",
+  "vitalplates.config.transition_mode.classic": "Classic (White - &c Red)",
+  "vitalplates.config.transition_mode.spectrum": "Spectrum (Green - Yellow - Red)",
+  "vitalplates.config.tint_background": "Background Tint",
+  "vitalplates.config.background_intensity": "Background Intensity",
+  "vitalplates.config.background_intensity.low": "Subtle (40%)",
+  "vitalplates.config.background_intensity.normal": "Balanced (65%)",
+  "vitalplates.config.background_intensity.high": "Pronounced (90%)",
+  "vitalplates.config.affect_players": "Affect Players",
+  "vitalplates.config.affect_named_mobs": "Affect Named Mobs",
+  "vitalplates.config.reset_defaults": "Reset Defaults",
+  "modmenu.descriptionTranslation.vitalplates": "Dynamically shifts nametag colors and plate tint based on remaining health percentage."
+}

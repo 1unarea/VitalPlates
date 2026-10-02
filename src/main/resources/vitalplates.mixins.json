@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.vitalplates.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "EntityRendererMixin",
+    "EntityRenderStateMixin",
+    "SubmitNodeCollectionMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

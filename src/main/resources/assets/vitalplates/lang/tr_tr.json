@@ -1,0 +1,16 @@
+{
+  "vitalplates.config.title": "VitalPlates Ayarları",
+  "vitalplates.config.mod_status": "Mod Durumu",
+  "vitalplates.config.transition_mode": "Geçiş Modu",
+  "vitalplates.config.transition_mode.classic": "Klasik (Beyaz - &c Kırmızı)",
+  "vitalplates.config.transition_mode.spectrum": "Spektrum (Yeşil - Sarı - Kırmızı)",
+  "vitalplates.config.tint_background": "Arka Plan Renklendirme",
+  "vitalplates.config.background_intensity": "Arka Plan Yoğunluğu",
+  "vitalplates.config.background_intensity.low": "Hafif (%40)",
+  "vitalplates.config.background_intensity.normal": "Dengeli (%65)",
+  "vitalplates.config.background_intensity.high": "Belirgin (%90)",
+  "vitalplates.config.affect_players": "Oyuncuları Etkile",
+  "vitalplates.config.affect_named_mobs": "İsimli Canlıları Etkile",
+  "vitalplates.config.reset_defaults": "Varsayılanlar",
+  "modmenu.descriptionTranslation.vitalplates": "Kalan can yüzdesine göre isim etiketlerinin ve plaka arkaplanının rengini dinamik olarak değiştirir."
+}
