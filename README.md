@@ -103,12 +103,6 @@ To run the automated unit test suite:
 
 ---
 
-## Clean-Room Implementation Notice
-
-VitalPlates was designed and authored independently from scratch for Minecraft 26.3. It contains no proprietary, leaked, or copied source code from prior nametag modifications.
-
----
-
 ## License
 
 VitalPlates is released under the [MIT License](LICENSE).

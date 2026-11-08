@@ -15,7 +15,7 @@ import org.vitalplates.client.VitalPlatesRenderStateExtension;
 
 /**
  * Mixin into SubmitNodeCollection to dynamically tint the translucent background
- * plate of entity nametags ("arkaplanın rengi de hafif kızarsın").
+ * plate of entity nametags as health decreases.
  */
 @Mixin(SubmitNodeCollection.class)
 public abstract class SubmitNodeCollectionMixin {

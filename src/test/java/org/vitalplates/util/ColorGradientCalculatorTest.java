@@ -71,7 +71,7 @@ public class ColorGradientCalculatorTest {
     }
 
     @Test
-    @DisplayName("Plate Background: Low health reddens the plate ('hafif kızarsın')")
+    @DisplayName("Plate Background: Low health reddens the plate")
     void testPlateBackgroundAtLowHealth() {
         int bg = ColorGradientCalculator.getPlateBackgroundColor(0.25f, 0.0f, true, BackgroundIntensity.NORMAL);
         int a = (bg >> 24) & 0xFF;

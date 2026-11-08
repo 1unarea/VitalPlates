@@ -5,7 +5,7 @@ import org.vitalplates.config.BackgroundIntensity;
 import org.vitalplates.config.TransitionMode;
 
 /**
- * Clean-room color and gradient calculator for VitalPlates nametag rendering.
+ * Color and gradient calculator for VitalPlates nametag rendering.
  * <p>
  * Supports:
  * <ul>
@@ -14,7 +14,7 @@ import org.vitalplates.config.TransitionMode;
  *   <li>Spectrum mode: Multi-stop gradient transitioning from Green (#00FF00) through
  *       Yellow (#FFFF00) and Orange (#FF8000) down to Red (#FF5555).</li>
  *   <li>Background Plate tinting: Subtly reddens the translucent nametag background plate
- *       as entity health decreases ("hafif kızarsın").</li>
+ *       as entity health decreases.</li>
  * </ul>
  */
 public final class ColorGradientCalculator {
